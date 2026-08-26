@@ -1,8 +1,7 @@
 # Python-Learning
 Python is the backbone of modern industries like artificial intelligence, machine learning, data science, and web development.
 
-<!--
-Why Python?
+## Why Python?
 - 🟢 Beginner-Friendly — Python has simple and readable syntax, making it easy to learn.
 - 📚 Large Community — A huge developer community provides tutorials, documentation, libraries, and support.
 - 🧰 Rich Libraries — Python offers thousands of libraries and frameworks that make development faster and easier.
@@ -13,7 +12,7 @@ Why Python?
 - 🧩 Easy to Build Projects — Python makes it possible to move from small exercises to real-world projects quickly.
 - 🎯 Strong Foundation — Learning Python helps develop important programming concepts such as variables, loops, functions, data structures, and object-oriented programming.
 
-📂 Repository Contents
+## 📂 Repository Contents
 This repository contains:
 - -> Python practice programs
 - -> Assignments and tasks
@@ -21,4 +20,3 @@ This repository contains:
 - -> Beginner-level projects
 - -> Notes and experiments
 - -> Problem-solving practice
--->
