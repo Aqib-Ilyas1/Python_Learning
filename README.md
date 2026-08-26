@@ -14,9 +14,9 @@ Python is the backbone of modern industries like artificial intelligence, machin
 
 ## 📂 Repository Contents
 This repository contains:
-+ Python practice programs
-+ Assignments and tasks
-+ Coding exercises
-+ Beginner-level projects
-+ Notes and experiments
-* Problem-solving practice
+  + Python practice programs
+  + Assignments and tasks
+  + Coding exercises
+  + Beginner-level projects
+  + Notes and experiments
+  + Problem-solving practice
