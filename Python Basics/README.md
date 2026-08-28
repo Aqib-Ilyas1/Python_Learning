@@ -1,6 +1,5 @@
 # Topics to be Covered
-- print function<br>
-    <p>Print function is a built-in python function used to display the output.</p>
+- print function<br><p>Print function is a built-in python function used to display the output.</p>
 - input function
 - variables
 - comments
